@@ -14,3 +14,6 @@ There are multiple grades:
 - 51 - 70: R
 - 71 - 90: SR
 - 91 - 100+: UR
+
+# This function sounds quite like a dictionary function where typically a key is required to return a grade. 
+# Given the fact that this key is given in a range
